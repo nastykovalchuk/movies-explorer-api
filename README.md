@@ -7,4 +7,4 @@
 
 IP 62.84.123.162
 
-Backend https://api.movies.nastykovalchuk.nomoreparties.sbs/
+Backend https://api.movies.nastykovalchuk.nomoredomains.work/
