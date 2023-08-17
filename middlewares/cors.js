@@ -1,5 +1,5 @@
 const allowedCors = [
-  'https://movies.nastykovalchuk.nomoredomains.work',
+  'https://movies.nastykovalchuk.nom.nomoreparties.co',
   'https://api.movies.nastykovalchuk.nomoredomains.work',
   'http://localhost:2000',
   'http://localhost:3000',
